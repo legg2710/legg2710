@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="wave" width="45" height="45" /> 
+ <img src="https://gifer.com/embed/J59" alt="wave" width="45" height="45" /> 
 
 <h4 align="left">Technologies: </h4>
 
