@@ -1,5 +1,5 @@
 <a href="https://gifer.com">
-  <img src="https://gifer.com/embed/J59" alt="HTML tutorial" style="width:42px;height:42px;">
+  <img src="https://gifer.com/embed/J59" alt="wave">
 </a>
 
 
