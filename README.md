@@ -1,4 +1,4 @@
-<a href=https://i.gifer.com/J59.gifm">
+<a href="https://i.gifer.com/J59.gif">
   <img src="https://gifer.com/en/J59" alt="wave">
 </a>
 
