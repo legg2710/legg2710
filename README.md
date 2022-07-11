@@ -11,9 +11,12 @@ Hello
 <img src="https://user-images.githubusercontent.com/83027075/178176467-fc7b7ae9-fd4d-44fb-bc0d-fc2094ff9b2c.png" alt="premier" width="40" height="40" /> </a>
  <a href="https://www.flaticon.com/free-icon/premier_688067"> 
 <img src="https://user-images.githubusercontent.com/83027075/178177418-a4307486-2346-44a2-999d-4156b6bb6d7a.png" alt="audition" width="40" height="40" /> </a>
- <a href="https://www.flaticon.com/free-icon/photoshop_888872"> 
-<img src="https://user-images.githubusercontent.com/83027075/178177645-9c09a3bf-ab71-435c-8df6-d45ceba85881.png" alt="photoshop" width="40" height="40" /> </a>
+ <a href="https://www.flaticon.com/free-icon/photoshop_688062"> 
+<img src="https://user-images.githubusercontent.com/83027075/178178805-3258db97-8a68-4fce-bfb3-bd07353c0d3f.png" alt="photoshop" width="40" height="40" /> </a>
  
+ 
+
+
  <br>
  
   <a href="https://www.flaticon.com/free-icon/figma_5968705?term=figma&related_id=5968705"> 
