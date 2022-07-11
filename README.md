@@ -1,4 +1,8 @@
-<a src="https://gifer.com/embed/J59" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen><a href="https://gifer.com"></a>
+
+ <img src="[https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif](https://gifer.com/embed/J59)"
+         alt="wave"
+         height="45"
+         width="45" />
 
 <h4 align="left">Lenguages & Tools:</h4>
 
