@@ -1,4 +1,4 @@
- <img src="https://gifer.com/embed/J59" alt="wave" width="45" height="45" /> 
+<iframe src="https://gifer.com/embed/J59" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
 
 <h4 align="left">Technologies: </h4>
 
