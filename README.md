@@ -1,10 +1,4 @@
-<a href="https://gifer.com">
-  <img src="https://gifer.com/embed/J59" alt="wave">
-</a>
-<a href="https://gifer.com" target="_blank"> <img src="https://gifer.com/embed/J59" alt="wave" width="40" height="40"/></a>
 
-
-<iframe src="" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe><p><a href="">via GIFER</a></p>
 
 
 <h4 align="left">Technologies: </h4>
