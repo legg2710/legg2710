@@ -14,6 +14,15 @@ Hello
  <a href="https://www.flaticon.com/free-icon/photoshop_888872"> 
 <img src="https://user-images.githubusercontent.com/83027075/178177645-9c09a3bf-ab71-435c-8df6-d45ceba85881.png" alt="photoshop" width="40" height="40" /> </a>
  
+ <br>
+ 
+  <a href="https://www.flaticon.com/free-icon/figma_5968705?term=figma&related_id=5968705"> 
+<img src="https://user-images.githubusercontent.com/83027075/178178145-a51e9893-69ac-4906-998b-5b710135a59d.png" alt="figma" width="40" height="40" /> </a>
+ 
+ 
+
+
+ 
 </a> 
 
 
