@@ -9,8 +9,7 @@
 <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="firebase" width="40" height="40"/></a> <a href="https://firebase.google.com/"> 
 <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/></a> <a href="https://nodejs.org/en/"> 
 <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/></a> <a href="https://seeklogo.com/vector-logo/401278/miro"> 
-<img src="https://user-images.githubusercontent.com/83027075/178178805-3258db97-8a68-4fce-bfb3-bd07353c0d3f.png" alt="photoshop" width="40" height="40"/></a>
-</a> 
+<img src="http://www.w3.org/2000/svg" alt="trello" width="40" height="40"/></a> <a href="https://fontawesomeicons.com/svg/icons/trello"> 
 
 ![legg2710's GitHub stats](https://github-readme-stats.vercel.app/api?username=legg2710&theme=dark&show_icons=true)
 
